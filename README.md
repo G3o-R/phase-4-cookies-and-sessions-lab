@@ -56,3 +56,5 @@ happen:
 ## Resources
 
 - [Rails - Accessing the Session](https://guides.rubyonrails.org/v4.1.4/action_controller_overview.html#accessing-the-session)
+
+https://github.com/G3o-R/phase-4-cookies-and-sessions-lab
